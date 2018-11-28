@@ -1,0 +1,11 @@
+{
+    "data_dir": "../data/pingan/",
+    "embeddings_file_origin": "../data/pingan/char_embedding.txt",
+    "embeddings_file": "../data/pingan/char_emb.txt",
+    "question_file": "question_id.csv",
+    "target_dir": "../data/preprocessed",
+
+    "lowercase": false,
+    "ignore_punctuation": false,
+    "num_words": null
+}

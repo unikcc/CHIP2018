@@ -1,0 +1,12 @@
+{
+    "data_dir": "../data/pingan/",
+    "embeddings_file": "../data/pingan/char_embedding.txt",
+    "embeddings_file_own": "../data/pingan/char_emb.txt",
+    "question_file": "question_id.csv",
+    "target_dir": "../data/pingan",
+    "emb_file": "char_emb.txt",
+
+    "lowercase": false,
+    "ignore_punctuation": false,
+    "num_words": null
+}

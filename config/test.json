@@ -1,0 +1,10 @@
+{
+    "test_data": "../data/preprocessed/test_data.pkl",
+
+    "vocab_size": 2089,
+    "embedding_dim": 600,
+    "hidden_size": 300,
+    "num_classes": 2,
+    "kfold":10,
+    "batch_size": 32
+}
